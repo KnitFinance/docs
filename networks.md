@@ -1,0 +1,25 @@
+# Supported Networks
+
+We support 14 assets and `1:1` collateralization in 3 networks.
+
+1. Ethereum
+2. Binance Smart chain
+3. Matic/Polygon
+
+## Contract reference
+
+### Ethereum
+
+- KBTC - [0x820bcAb818E9D5d92B366fA5C6C65520408a79b1](https://kovan.etherscan.io/token/0x820bcAb818E9D5d92B366fA5C6C65520408a79b1)
+- KETH - [0xBB2Fc4d8D30023Fc51d68d6E352d1431a03b1b7a](https://kovan.etherscan.io/token/0xBB2Fc4d8D30023Fc51d68d6E352d1431a03b1b7a)
+- KXLM - [0xF8Ef94C5835728Eb0f5994674ef3DC6ca261681d](https://kovan.etherscan.io/token/0xF8Ef94C5835728Eb0f5994674ef3DC6ca261681d)
+- KXRP - [0xDaAA70814c5815ff6AFAC57332dd44F7C4899b1e](https://kovan.etherscan.io/token/0xDaAA70814c5815ff6AFAC57332dd44F7C4899b1e)
+- KLTC - [0x476fa1337aCDECD0Cc72B52E82BA5E79bAD61bD7](https://kovan.etherscan.io/token/0x476fa1337aCDECD0Cc72B52E82BA5E79bAD61bD7)
+- KBCH - [0x09592391fBA38464a56e278426090e2c84D583d7](https://kovan.etherscan.io/token/0x09592391fBA38464a56e278426090e2c84D583d7)
+- KZEC - [0x1957C352c1e16cf09EfCc3865d13e0cE472aA42Bs](https://kovan.etherscan.io/token/0x1957C352c1e16cf09EfCc3865d13e0cE472aA42B)
+- KDOGE - [0xB9b834Bb4715b0d5251292b51EDdFB18B6011Df7](https://kovan.etherscan.io/token/0xB9b834Bb4715b0d5251292b51EDdFB18B6011Df7)
+- KDASH - [0xB9C776BcA0017111C8a67B79AA3C90050c42c838](https://kovan.etherscan.io/token/0xB9C776BcA0017111C8a67B79AA3C90050c42c838)
+- KBSV - [0x362381E4b025e7F75D7aeBdb5290bf4BF9F89B4f](https://kovan.etherscan.io/token/0x362381E4b025e7F75D7aeBdb5290bf4BF9F89B4f)
+- KTOMO - [0x3c7BF97f611903b8f2E335Ea9BB2CFc4348b92E4](https://kovan.etherscan.io/token/0x3c7BF97f611903b8f2E335Ea9BB2CFc4348b92E4)
+- KSC - [0x31e9BD23176300aFfc13a4fDC9CF7ec38E564eEa](https://kovan.etherscan.io/token/0x31e9BD23176300aFfc13a4fDC9CF7ec38E564eEa)
+- KFRONT - [0xF4a8Bcf5d17103141f8024E75F48D77EbE8C57C1](https://kovan.etherscan.io/token/0xF4a8Bcf5d17103141f8024E75F48D77EbE8C57C1)
