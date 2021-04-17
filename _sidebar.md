@@ -3,3 +3,4 @@
 - [Home](/)
 - [Assets](assets.md)
 - [Networks](networks.md)
+- [User Guide](guides.md)
