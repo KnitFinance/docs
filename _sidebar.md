@@ -4,4 +4,4 @@
 - [Assets](assets.md)
 - [Networks](networks.md)
 - [How to Connect](metamask.md)
-- [User Guide](guides.md)
+- [User Guide](userguide.md)
